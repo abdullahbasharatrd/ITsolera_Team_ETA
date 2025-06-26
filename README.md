@@ -34,7 +34,7 @@ python main.py --cmdinj --os linux --encode url --obfuscate
 
 # 🎯 Flags & Parameters
 
-#XSS
+# XSS
 
 | Flag         | Description                                              |
 | ------------ | -------------------------------------------------------- |
@@ -71,14 +71,14 @@ python main.py --cmdinj --os linux --encode url --obfuscate
 
 # 🖼️ Screenshots
 
-#XSS Payload Generation
+# XSS Payload Generation
 
 ![XSS 1](https://github.com/user-attachments/assets/33e045f7-fd1a-460f-b4b6-067b92fe266e)
 
 ![XSS 2](https://github.com/user-attachments/assets/eb79dba9-933e-4ba4-b001-1cba3086ffdc)
 
 
-#SQL Injection Scanning
+# SQL Injection Scanning
 
 ![SQL 1](https://github.com/user-attachments/assets/f4513b6b-7e2b-427b-b773-4f366fdd78ac)
 
@@ -86,7 +86,7 @@ python main.py --cmdinj --os linux --encode url --obfuscate
 
 ![SQL 3](https://github.com/user-attachments/assets/773fae99-94a1-4d0d-9bbd-70efc73bc9f0)
 
-#Command Injection Generation
+# Command Injection Generation
 
 ![Cmd Injection 1](https://github.com/user-attachments/assets/5d3c3949-737a-488d-a200-68b51efcd942)
 
