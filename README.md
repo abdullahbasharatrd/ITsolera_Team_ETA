@@ -4,7 +4,7 @@ Injectra is a powerful CLI-based payload generator and vulnerability testing too
 It supports XSS, SQL Injection, and Command Injection vectors with payload customization, encoding options, and export features.
 
 
-#📦 Features
+# 📦 Features
 
 - 🔍XSS Module
   - Reflected, Stored, DOM-Based & Evasion payloads
@@ -21,7 +21,7 @@ It supports XSS, SQL Injection, and Command Injection vectors with payload custo
   - Encoding & obfuscation options
   - Clipboard support & export formats
     
-#🚀 Usage
+# 🚀 Usage
 
 bash
 
@@ -32,7 +32,7 @@ python main.py --sqli --target https://example.com --param id --type error --enc
 python main.py --cmdinj --os linux --encode url --obfuscate
 
 
-#🎯 Flags & Parameters
+# 🎯 Flags & Parameters
 
 #XSS
 
@@ -69,7 +69,7 @@ python main.py --cmdinj --os linux --encode url --obfuscate
 | `--copy`      | Copy output to clipboard             |
 
 
-#🖼️ Screenshots
+# 🖼️ Screenshots
 
 #XSS Payload Generation
 
@@ -92,14 +92,14 @@ python main.py --cmdinj --os linux --encode url --obfuscate
 
 ![Cmd Injection 2](https://github.com/user-attachments/assets/479d7890-0e07-4251-841f-07867935b7d3)
 
-#🧰 Requirements
+# 🧰 Requirements
 
 Install dependencies using:
 
 pip install requests pyperclip
 
 
-#⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 This tool is intended for educational and authorized testing only. Using it on unauthorized targets is illegal.
 
